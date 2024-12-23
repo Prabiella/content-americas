@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 155.92 155.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #e6e3ea;
+        font-family: Avenir-Heavy, Avenir;
+        font-size: 14.42px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: #311a45;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="132.92" y1="132.92" x2="-2.85" y2="-2.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#604298"/>
+      <stop offset="1" stop-color="#983090"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g>
+        <circle class="cls-2" cx="77.96" cy="77.96" r="77.96"/>
+        <circle class="cls-1" cx="77.96" cy="77.96" r="69.83"/>
+      </g>
+      <path class="cls-3" d="M79.74,34.01c-24.16-.1-44.03,19.75-44.01,43.97.02,24.2,19.74,43.92,43.94,43.94,24.18.02,43.91-19.7,43.96-43.92.05-24.16-19.63-43.88-43.89-43.99ZM79.64,113.15c-19.34-.06-35.21-15.96-35.16-35.23.05-19.34,15.96-35.21,35.23-35.16,19.35.06,35.21,15.95,35.16,35.22-.05,19.34-15.96,35.22-35.23,35.16Z"/>
+      <text class="cls-4" transform="translate(70.87 75.7)"><tspan x="0" y="0">TU</tspan><tspan x="-17.23" y="12.98">MARCA</tspan></text>
+    </g>
+  </g>
+</svg>

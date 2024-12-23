@@ -1,0 +1,525 @@
+.ui-block-02, .disp  {
+  background: white;
+  position: relative;
+}
+/*Header-nav*/
+.contact {
+  background: #f49020;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0 0.3em;
+}
+/*video-section*/
+#content {
+  top: 45%;
+  left: 47em;
+}
+.description img {
+  width: 400px;
+  padding: 1em 0;
+  margin-top: 10%;
+}
+.description h1 {
+  color: #f49020;
+  font-size: 38px !important;
+  line-height: 1;
+  font-weight: 400;
+}
+.platf {
+  font-size: 48px;
+  font-weight: 600;
+}
+.description p {
+  font-size: 23px !important;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+
+/*Características Principales*/
+.owl-stage-outer {
+  height: 100%;
+}
+.offer {
+  font-size: 24px;
+  font-weight: 600;
+}
+.testimonial-two .testimonial-para {
+  text-align: left;
+  padding: 0;
+}
+.main-features {
+  font-size: 3em;
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif !important;
+}
+.info-btn {
+  background: #f49021 0% 0% no-repeat padding-box;
+  border-radius: 29px;
+  border: none;
+  padding: 0.3em 1em;
+  color: #4f3291 !important;
+}
+.aliados-tech h3 {
+  color: #FAF8FF !important;
+  font-size: 1.5em;
+  font-weight: 400 !important;
+}
+.testimonial-post p {
+  padding-top: 2em;
+}
+.aliados-tech hr {
+  border: 1px solid #f49021;
+  opacity: 1;
+  display: none;
+}
+/*Carousel*/
+.ui-block-17-testimonial-carousel {
+  max-width: 1400px;
+}
+.ui-block-17.testimonial-sec {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.image-holder1 img {
+  width: 47% !important;
+}
+.image-holder2 img {
+  width: 27% !important;
+}
+.ui-block-17 {
+  background: #ddd9e2;
+}
+.ui-block-17 h3 {
+  color: #4f3291;
+  font-size: 3em;
+}
+.devices-text {
+  color: #4d2f90;
+}
+.ui-block-17.testimonial-sec .test-btn {
+  top: 43%;
+  transform: translateY(-50%);
+  color: #00000069 !important;
+  font-size: 25px;
+  height: 50px;
+  width: 50px;
+  color: #000000;
+  border: 2px solid #000000;
+  margin: 0 1em;
+}
+.test-btn i {
+  color: #000000;
+}
+
+.animated-circle {
+  background-color: transparent;
+  border: 2px solid #f49021;
+  height: 30px;
+  width: 30px;
+  top: 3px;
+}
+.marker1 {
+  top: 42%;
+  left: 23%;
+  position: absolute;
+}
+.marker1:after,
+.marker2:after,
+.marker3:after,
+.marker7:after {
+  left: 29px;
+  width: 88px;
+  background-color: #f49021;
+  height: 2px;
+}
+.marker2 {
+  top: 41%;
+  left: 30.4%;
+  position: absolute;
+}
+.marker3 {
+  top: 40%;
+  left: 19.2%;
+  position: absolute;
+}
+.marker5 {
+  top: 29.5%;
+  left: 72.2%;
+  position: absolute;
+}
+.marker5::before {
+  content: "";
+  position: absolute;
+  top: 46%;
+  right: 29px;
+  width: 150px;
+  height: 2px;
+  background-color: #f49021;
+}
+.marker6 {
+  top: 35%;
+  left: 69.8%;
+  position: absolute;
+}
+.marker6:before {
+  background-color: #f49021;
+  height: 2px;
+  right: 29px;
+}
+.marker7 {
+  top: 48.2%;
+  left: 69.6%;
+  position: absolute;
+}
+.marker7::before {
+  content: "";
+  position: absolute;
+  top: 46%;
+  right: 29px;
+  width: 268px;
+  height: 2px;
+  background-color: #f49021;
+}
+.marker1:after {
+  width: 88px;
+}
+.marker5:before {
+  width: 128px;
+}
+.marker2:after {
+  width: 88px;
+}
+.marker6:before {
+  width: 128px;
+}
+[data-tootik]:after {
+  background: #fff;
+  color: #4f3291;
+  padding: 0.9em 0.7em 0.7em;
+  font-weight: 600;
+}
+[data-tootik]:before {
+  border-top-color: #fff;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+}
+.devices-text {
+  font-size: 1.2em;
+}
+.owl-prev, .owl-next {
+  font-size: 6em !important;
+  font-weight: 100 !important;
+  color: #000000 !important;
+}
+
+@media (max-width: 1600px) and (min-width: 1400px) {
+  .marker1:after {
+    width: 88px;
+  }
+  .marker5:before {
+    width: 128px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .ui-block-17-testimonial-carousel {
+    max-width: 1200px;
+  }
+  .marker1 {
+    top: 41%;
+    left: 21.6%;
+  }
+  .marker2 {
+    top: 41%;
+    left: 29%;
+  }
+  .marker3 {
+    top: 40%;
+    left: 17.8%;
+  }
+  .marker5 {
+    top: 32.5%;
+    left: 73.7%;
+  }
+  .marker6 {
+    top: 35%;
+    left: 71.3%;
+  }
+  .marker7 {
+    top: 47.7%;
+    left: 72.7%;
+  }
+}
+@media screen and (max-width: 1200px) {
+  /* .owl-carousel .owl-item img {
+    width: 47%;
+  } */
+  .cont-mob {
+    width: 63%;
+  }
+  .image-holder2 img {
+    width: 27% !important;
+  }
+  .image-holder2 {
+    text-align: center;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .testimonial-two {
+    padding: 25px 40px;
+  }
+  .offer {
+    font-size: 20px;
+  }
+  .testimonial-two .testimonial-para {
+    font-size: 16px;
+  }
+  .main-features {
+    font-size: 2em;
+  }
+  #content {
+    left: 35em !important;
+  }
+  .marker1 {
+    top: 41% !important;
+    left: 19.6% !important;
+  }
+  .marker2 {
+    top: 39%;
+    left: 27%;
+  }
+  .marker3 {
+    top: 40%;
+    left: 15.8%;
+  }
+  .marker5 {
+    top: 31%;
+    left: 76%;
+  }
+  .marker6 {
+    top: 35.5%;
+    left: 73.5%;
+  }
+  .marker7 {
+    top: 45%;
+    left: 77.5%;
+  }
+  .ui-block-17-testimonial-carousel {
+    max-width: 992px;
+  }
+}
+@media screen and (max-width: 991px) {
+  #content {
+    left: 27em !important;
+  }
+  .banner {
+    margin-top: 3em;
+    margin-bottom: 3em;
+  }
+  .owl-nav {
+    padding-bottom: 3em !important;
+}
+.marker1 {
+  top: 42.8% !important;
+  left: 30% !important;
+}
+  .marker2 {
+    top: 41%;
+    left: 37%;
+  }
+  .marker3 {
+    top: 44%;
+    left: 21.8%;
+  }
+  .marker5 {
+    top: 31.5%;
+    left: 60%;
+  }
+  .marker6 {
+    top: 34.5%;
+    left: 58.8%;
+  }
+  .marker7 {
+    top: 47%;
+    left: 49.5%;
+  }
+  .marker2:after {
+    display: none;
+  }
+  .marker5:after {
+    display: none;
+  }
+  .image-holder2 img {
+    width: 42% !important;
+  }
+  .image-holder1 img {
+    width: 70% !important;
+  }
+  .ui-block-17 h3 {
+    font-size: 1.5em;
+    padding: 0 0.5em;
+  }
+  .aliados-tech hr {
+    display: block;
+  }
+}
+@media screen and (max-width: 767px) {
+   .main-features {
+    font-size: 1.4em !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .owl-nav {
+    display: none;
+  }
+  #content {
+    top: 70%;
+    left: 50% !important;
+    width: 100%;
+  }
+
+  .description h1 {
+    font-size: 20px !important;
+  }
+  .platf {
+    font-size: 28px;
+  }
+  .description p {
+    font-size: 16px !important;
+  }
+  .description img {
+    width: 200px;
+  }
+  .text-cent {
+    text-align: center !important;
+  }
+  .side-menu .inner-wrapper {
+    padding: 3.5rem 3rem;
+  }
+  .side-menu .btn-close {
+    right: 20px;
+    left: auto;
+    top: 20px;
+  }
+  .image-holder2 {
+    text-align: center;
+    width: 100%;
+  }
+  .marker2 {
+    top: 40%;
+    left: 27%;
+  }
+  .marker6 {
+    top: 28.5%;
+    left: 62.8%;
+  }
+  .marker3 {
+    top: 39%;
+    left: 15%;
+  }
+  .marker5 {
+    top: 31.5%;
+    left: 65%;
+  }
+  .marker7 {
+    top: 45%;
+    left: 49.5%;
+  }
+}
+@media screen and (max-width: 525px) {
+  .image-holder1 img {
+    width: 100% !important;
+}
+  .image-holder2 img {
+    width: 80% !important;
+  }
+  .marker1 {
+    top: 39% !important;
+    left: 24% !important;
+  }
+  .marker3 {
+    top: 31%;
+    left: 26%;
+  }
+  .marker6 {
+    top: 36.5%;
+    left: 62.8%;
+}
+}
+@media screen and (max-width: 425px) {
+.devices-text {
+  font-size: 1em;
+}
+}
+@media screen and (max-width: 424px) {
+  .offer {
+    font-size: 18px;
+  }
+  .heading-area .heading {
+    font-size: 17px;
+  }
+  .devices-text {
+    font-size: 1em;
+  }
+  .marker6 {
+    top: 39.5%;
+    left: 62.8%;
+}
+}
+@media screen and (max-width: 375px) {
+  .marker2 {
+    top: 39%;
+    left: 26%;
+  }
+  .marker3 {
+    top: 32%;
+    left: 31%;
+  }
+  .marker6 {
+    top: 37.5%;
+    left: 61.8%;
+  }
+  .marker7 {
+    top: 42%;
+    left: 48.5%;
+  }
+}
+@media screen and (max-width: 355px) {
+  .description p {
+    font-size: 15px !important;
+  }
+  .marker1 {
+    top: 37% !important;
+    left: 24% !important;
+}
+}
+@media screen and (max-width: 320px) {
+  .image-holder2 img {
+    width: 70% !important;
+}
+  .marker1 {
+    top: 37% !important;
+    left: 24% !important;
+}
+.marker2 {
+  top: 44%;
+  left: 28%;
+}
+.marker3 {
+  top: 27%;
+  left: 39%;
+}
+.marker5 {
+  top: 27%;
+  left: 57%;
+}
+.marker6 {
+  top: 38.5%;
+  left: 58.8%;
+}
+}

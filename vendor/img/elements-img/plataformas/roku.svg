@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="102" viewBox="0 0 144 102">
+  <g id="roku" transform="translate(-650 -4199)">
+    <rect id="Rectángulo_23182" data-name="Rectángulo 23182" width="144" height="102" transform="translate(650 4199)" fill="#fff"/>
+    <g id="Grupo_31982" data-name="Grupo 31982" transform="translate(663 4234.619)">
+      <path id="Trazado_84687" data-name="Trazado 84687" d="M2938.51,56.879a5.284,5.284,0,0,1-5.312,5.256H2820.449a5.286,5.286,0,0,1-5.314-5.256V28.5a5.286,5.286,0,0,1,5.314-5.255H2933.2a5.284,5.284,0,0,1,5.312,5.255Z" transform="translate(-2814.635 -23.247)" stroke="#fff" stroke-width="0.5"/>
+      <g id="Grupo_31979" data-name="Grupo 31979" transform="translate(29.631 7.142)">
+        <g id="Grupo_31360" data-name="Grupo 31360" transform="translate(1.37 8.131)">
+          <path id="Trazado_84772" data-name="Trazado 84772" d="M2955.508,100.123h-5.478l-4.356-6.04h-1.466v6.029h-4.834V81.994h6.923c3.991,0,7.246,2.713,7.246,6.05a5.878,5.878,0,0,1-3.151,4.969l5.115,7.11m-6.8-12.079A3.03,3.03,0,0,0,2945.7,85h-1.487v6.06h1.5a3.021,3.021,0,0,0,3-3.015Z" transform="translate(-2939.375 -81.994)" fill="#fff"/>
+          <path id="Trazado_84773" data-name="Trazado 84773" d="M3018.506,105.833a7.422,7.422,0,1,1-7.453-7.391h.021a7.409,7.409,0,0,1,7.444,7.37c-.012.01-.012.01-.012.021m-7.442-3.888c-1.279,0-2.36,1.736-2.36,3.888s1.082,3.877,2.36,3.877c1.309,0,2.391-1.736,2.391-3.877S3012.373,101.945,3011.063,101.945Z" transform="translate(-2989.484 -94.814)" fill="#fff"/>
+          <path id="Trazado_84774" data-name="Trazado 84774" d="M3085.65,99.772l-5.562,5.572V99.762h-4.835v14.19h4.835v-5.759l5.811,5.759h6.081l-7.38-7.391,6.123-6.112v8.43c0,2.8,1.673,5.374,5.915,5.374a6.7,6.7,0,0,0,4.75-2.172l2.172,1.871h1.03V99.772h-4.824v9.179a2.719,2.719,0,0,1-2.474,1.549c-1.2,0-1.736-.707-1.736-2.963V99.762h-9.906Z" transform="translate(-3045.285 -95.843)" fill="#fff"/>
+          <path id="Trazado_84775" data-name="Trazado 84775" d="M3214.448,100.685a.956.956,0,1,1,.956-.957.954.954,0,0,1-.956.957Zm0-1.809a.863.863,0,1,0,.863.863A.875.875,0,0,0,3214.448,98.876Z" transform="translate(-3153.034 -95.072)" fill="#fff"/>
+          <path id="Trazado_84776" data-name="Trazado 84776" d="M3215.944,100.934h.436a.385.385,0,0,1,.28.094.306.306,0,0,1,.083.208h0a.291.291,0,0,1-.229.291l.259.364h-.2l-.24-.343h-.207v.343h-.166v-.956Zm.415.478c.124,0,.2-.062.2-.166h0c0-.1-.073-.156-.2-.156h-.249v.322Z" transform="translate(-3154.945 -96.756)" fill="#fff"/>
+        </g>
+        <text id="DISPONIBLE_EN" data-name="DISPONIBLE EN" transform="translate(3.37 5)" fill="#fff" font-size="9" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">DISPONIBLE EN</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
