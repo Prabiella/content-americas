@@ -253,11 +253,20 @@
     top: 47.7%;
     left: 72.7%;
   }
+ 
 }
+
+
+@media screen and (width: 1280px) {
+
+  #content {
+    top: 45%;
+    left: 40em;
+  }
+}
+
 @media screen and (max-width: 1200px) {
-  /* .owl-carousel .owl-item img {
-    width: 47%;
-  } */
+
   .cont-mob {
     width: 63%;
   }
@@ -268,6 +277,7 @@
     text-align: center;
     width: 100%;
   }
+ 
 }
 @media screen and (max-width: 1199px) {
   .testimonial-two {
@@ -285,6 +295,10 @@
   #content {
     left: 35em !important;
   }
+
+
+
+
   .marker1 {
     top: 41% !important;
     left: 19.6% !important;
@@ -367,6 +381,36 @@
   .aliados-tech hr {
     display: block;
   }
+
+}
+@media screen and (max-width: 990px) {
+
+  #content {
+    top: 80%;
+    left: 39em;
+  }
+
+  .description img {
+    width: 300px;
+   
+  }
+  .description h1 {
+    color: #f49020;
+    font-size: 28px !important;
+    line-height: 1;
+    font-weight: 400;
+  }
+  .platf {
+    font-size: 38px;
+    font-weight: 600;
+  }
+  .description p {
+    font-size: 13px !important;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+  }
+  
 }
 @media screen and (max-width: 767px) {
    .main-features {
